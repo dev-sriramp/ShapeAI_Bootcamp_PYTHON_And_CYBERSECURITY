@@ -1,0 +1,16 @@
+-------------------------------------------------------------
+Weather Report for - COIMBATORE  || 21 Jun 2021 | 10:15:49 PM
+-------------------------------------------------------------
+Current temperature is: 24.88 deg C
+Current weather desc  : mist
+Current Humidity      : 88 %
+Current wind speed    : 5.14 coikmph
+
+-------------------------------------------------------------
+Weather Report for - COIMBATORE  || 21 Jun 2021 | 10:16:09 PM
+-------------------------------------------------------------
+Current temperature is: 24.88 deg C
+Current weather desc  : mist
+Current Humidity      : 88 %
+Current wind speed    : 5.14 coikmph
+
